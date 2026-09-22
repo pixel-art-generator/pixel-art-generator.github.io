@@ -8,4 +8,5 @@ Type a prompt or upload a picture and get crisp pixel art with a real grid and a
 Available in: English, Español, Português, Deutsch, Français, Italiano, 日本語, 한국어, 中文, Русский, Bahasa Indonesia, Türkçe, Tiếng Việt
 
 
+
 _Last reviewed: 2026-09-22_
